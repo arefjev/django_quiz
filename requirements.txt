@@ -1,2 +1,2 @@
-Django==3.2
-pycodestyle==2.7.0
+Django==3.2.9
+pycodestyle==2.8.0
