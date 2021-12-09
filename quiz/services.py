@@ -9,3 +9,4 @@ class QuizResultService():
 
     def get_result(self) -> float:
         # your code here
+        pass
